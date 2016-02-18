@@ -1,0 +1,14 @@
+layout_spectrum: 0.906383
+color:
+  saturation: 0.6702127
+  brandStrength: 0.6021277
+  lightness: 0.01914894
+  brandColors:
+    - '#000001'
+    - '#5BACFB'
+    - '#0363D7'
+    - '#DFE280'
+    - '#2F0D9A'
+  rhythmicContrast: 0.7872341
+typography_spectrum: 0.6
+name: Nerd Enhanced Sound
